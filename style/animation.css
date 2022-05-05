@@ -1,0 +1,50 @@
+@keyframes opacity_background {
+	0% {
+		opacity: 0;
+	} 100% {
+		opacity: .15;
+	}
+}
+
+@keyframes opacity_text {
+	0% {
+		opacity: 0;
+	} 100% {
+		opacity: 1;
+		transform: translateY(-50px);
+	}
+}
+
+@keyframes opacity_transform {
+	0% {
+		transform: translateY(-50px);
+	} 100% {
+		transform: translateY(50px);
+	}
+}
+
+@keyframes icons_scale {
+	0% {
+		transform: scale(1);
+	} 100% {
+		transform: scale(.95);
+	}
+}
+
+@keyframes scroll_scale {
+	0% {
+		transform: scale(1);
+	} 50% {
+		transform: scale(1.2);
+	} 100% {
+		transform: scale(1);
+	}
+}
+
+@keyframes text_dur {
+	0% {
+		border-image-source: linear-gradient(70deg, #a36b62 33%, #c27c53 66%, #c79c6d);
+	} 100% {
+		border-image-source: linear-gradient(rgba(0, 0, 0), rgba(0, 0, 0));
+	}
+}

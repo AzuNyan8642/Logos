@@ -1,0 +1,34 @@
+@font-face {
+	font-family: "Gilroy_Thin";
+	src: url("../images/font/Gilroy-Thin.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: bold; 
+}
+
+@font-face {
+	font-family: "Gilroy_Light";
+	src: url("../images/font/Gilroy-Light.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: bold; 
+}
+
+@font-face {
+	font-family: "Gilroy_UltraLight";
+	src: url("../images/font/Gilroy-UltraLight.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: bold; 
+}
+
+@font-face {
+	font-family: "Gilroy_Regular";
+	src: url("../images/font/Gilroy-Regular.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: bold; 
+}
+
+@font-face {
+	font-family: "Gilroy_Medium";
+	src: url("../images/font/Gilroy-Medium.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: bold; 
+}
